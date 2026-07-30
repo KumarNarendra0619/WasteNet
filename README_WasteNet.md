@@ -1,10 +1,15 @@
-# ♻️ WasteNet
+<div align="center">
+## ♻️ WasteNet
+  
+> **An Open GeoAI Foundation Model for Waste Detection, Segmentation, and Mapping**
 
-> **Open GeoAI Foundation Model for Waste Detection, Segmentation and Mapping**
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Status](https://img.shields.io/badge/Status-Under%20Development-orange)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
+![GeoAI](https://img.shields.io/badge/GeoAI-Foundation%20Model-green)
 
-![Status](https://img.shields.io/badge/status-under_development-orange)
-![Python](https://img.shields.io/badge/python-3.10+-blue)
-![License](https://img.shields.io/badge/license-Apache--2.0-green)
+---
 
 ## 🌍 Overview
 WasteNet is an open-source GeoAI platform for detecting, segmenting, and mapping unmanaged solid waste from satellite, drone, aerial, and street-level imagery. It supports humanitarian mapping, OpenStreetMap, HOT, municipalities, researchers, and NGOs.
@@ -166,6 +171,18 @@ Contributions are welcome for datasets, code, models, documentation, plugins, an
 ```
 
 ## License
+
 Apache-2.0
 
 > **Mapping Waste. Empowering Communities. Building Open GeoAI.**
+
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+  <h1>Built with AI Studio</h2>
+
+  <p>The fastest path from prompt to production with Gemini.</p>
+
+  <a href="https://aistudio.google.com/apps">Start building</a>
+
+</div>
+
